@@ -18,7 +18,9 @@ Buka terminal, arahkan ke direktori proyek, dan jalankan perintah berikut:
 ## CARA MENGUNDUH
 Anda dapat mengunduh game ini dengan mengeklik tombol "Download ZIP" pada repositori GitHub atau dengan menggunakan perintah git:
 
-`git clone https://github.com/username/flappy-bird.git`
+`https://github.com/angelynf/ProjekAngel.git`
+
+Projek Flappy Bird saya dapat dilihat pada 
 
 ## PERSYARATAN
 
