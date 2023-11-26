@@ -20,7 +20,7 @@ Anda dapat mengunduh game ini dengan mengeklik tombol "Download ZIP" pada reposi
 
 `https://github.com/angelynf/ProjekAngel.git`
 
-Projek Flappy Bird saya dapat dilihat pada 
+Projek Flappy Bird saya dapat dilihat pada file yang bernama `fp.py`
 
 ## PERSYARATAN
 
